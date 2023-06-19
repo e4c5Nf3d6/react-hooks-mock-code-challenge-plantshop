@@ -41,12 +41,6 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
-    },
-    {
-      "name": "Rumor Weed",
-      "image": "https://lanewilliam.files.wordpress.com/2015/09/rumor-weed.jpg",
-      "price": "1000",
-      "id": 8
     }
   ]
 }
